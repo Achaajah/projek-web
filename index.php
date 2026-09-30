@@ -8,3 +8,4 @@
  * query, dan tampilan tetap ada di sana, jadi tidak ada kode yang dobel.
  */
 require __DIR__ . '/pages/home.php';
+?>
